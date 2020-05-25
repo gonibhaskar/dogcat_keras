@@ -1,2 +1,0 @@
-# dogcat_keras
-test
