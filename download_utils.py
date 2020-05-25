@@ -19,6 +19,7 @@ def error_handle():
     fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
     print(exc_type, fname, exc_tb.tb_lineno)
     print("Hello")
+    print("Hello from github")
 
 def retri_file_size(url: str):
     """Return to-be-downloaded file size
