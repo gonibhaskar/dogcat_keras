@@ -1,6 +1,6 @@
 # dogcat_keras
 test
-
+#from terminal
 
 # master has been uppdated
 =======
